@@ -1,0 +1,12 @@
+Strukturmodul Denkarchitektur – Lizenzvereinbarung
+
+Dieses Repository dient ausschließlich der strukturellen Sichtbarmachung von Denkmodellen.  
+Alle Inhalte (Texte, Theorien, Strukturen) unterliegen dem geistigen Eigentum von strukturmodul@proton.me.
+
+Nutzung, Verwertung oder Integration – ganz oder teilweise – sind nur mit schriftlicher Genehmigung zulässig.  
+Insbesondere dürfen keine fraktalen Analysemodelle, Kontrollsysteme oder Denkstrukturen aus diesem Material ohne explizite Erlaubnis weiterverarbeitet werden.
+
+Diese Veröffentlichung dient rein der Sichtbarmachung und des Kontaktherstellens für Forschungs- oder Entwicklungspartnerschaften.  
+Sie stellt keine Freigabe für Open-Source-, Lizenz- oder kommerzielle Nutzung dar.
+
+Kontakt: strukturmodul@proton.me
